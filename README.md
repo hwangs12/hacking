@@ -45,3 +45,7 @@
 ### 1.2.6 Datalink (2)
 ### 1.2.7 Physical (1)
 
+### LINUX COMMANDS
+
+> systemctl, ps, cron, wget, top
+
