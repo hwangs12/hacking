@@ -49,3 +49,8 @@
 
 > systemctl, ps, cron, wget, top
 
+
+#### NMAP COMMAND TO DOWNLOAD SPECIFIC SCRIPT TO MY LOCAL DIRECTORY
+
+`sudo wget -O /usr/share/nmap/scripts/<script-name>.nse https://svn.nmap.org/nmap/scripts/<script-name>.nse`
+
